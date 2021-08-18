@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, holis 👋
+
+- 🔭 I’m currently working on ... aprender html y css.
 
 <!--
 **mieldeabexa/mieldeabexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
